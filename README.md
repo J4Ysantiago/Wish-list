@@ -25,10 +25,9 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
+https://github.com/J4Ysantiago/Wish-list/blob/main/Kapture%202025-10-21%20at%2022.18.44.gif
 
-
-
-
+video made with KAP
 
 
 
