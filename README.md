@@ -1,15 +1,19 @@
 Submitted by: Jaylen Santiago
 
+WISHLIST APP
+
 Wishlist is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: 4 hours spent in total
+Time spent: 2 hours spent in total
 
 Required Features
 
 The following required functionality is completed:
 
- User can add an item to their wishlist
- User can see their list of items based on previously inputted items
+[x] User can add an item to their wishlist
+ [x] User can see their list of items based on previously inputted items
+
+ 
 The following optional features are implemented:
 
  Wishlist app is customized 
@@ -25,14 +29,17 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/J4Ysantiago/Wish-list/blob/main/Kapture%202025-10-21%20at%2022.18.44.gif
+
+![Kapture 2025-12-06 at 00 18 10](https://github.com/user-attachments/assets/34074c08-3259-4e76-bf73-3c44223864bd)
+
+
 
 video made with KAP
 
 
 
 
- Copyright [yyyy] [name of copyright owner]
+ Copyright [2025] [Jaylen Santiago]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
